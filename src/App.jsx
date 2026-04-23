@@ -192,3 +192,4 @@ const styles = {
   inputBox: { flex: 1, background: "#1a1a1a", border: "1px solid #2a2a2a", borderRadius: 12, color: "#fff", padding: "12px 14px", fontSize: 14, resize: "none", outline: "none", fontFamily: "Georgia, serif", lineHeight: 1.5 },
   sendBtn: { width: 42, height: 42, borderRadius: "50%", border: "none", color: "#000", fontSize: 18, cursor: "pointer", flexShrink: 0, fontWeight: "bold" },
 };
+
